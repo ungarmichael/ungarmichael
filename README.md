@@ -20,4 +20,4 @@
   <a href="https://dribbble.com/ungarmichael">Dribbble</a>.
 </h3>
 
-available for work. → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
+say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
