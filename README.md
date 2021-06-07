@@ -1,5 +1,3 @@
-
-![](https://tenor.com/view/peace-emoji-diversity-color-fade-gif-4921167)
 <h2>
   Hey! ― <br> 
   my name is Michael Ungar, <br> 
