@@ -17,7 +17,7 @@
   <br>
   or check out my latest works on 
   <br>
-  <a href="https://dribbble.com/ungarmichael">Dribbble</a> and <a href="https://behance.net/ungarmichael">Behance</a>.
+  <a href="https://dribbble.com/ungarmichael">Dribbble</a>.
 </h3>
 
 available for work. → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
