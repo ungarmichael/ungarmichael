@@ -9,6 +9,11 @@
   I contribute to open <br>
   source and private projects <a href="https://github.com/ungarmichael?tab=repositories"> here on GitHub</a>
 </h3>
+
+say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
+
+<h2>Here are my stats:</h2>
+
 </a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
 <a>
@@ -16,4 +21,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungarmichael&theme=dark" />
 </a>
 
-say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
+
