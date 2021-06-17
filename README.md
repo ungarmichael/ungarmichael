@@ -13,7 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
 <a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForyxCraft&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungarmichael&theme=dark" />
 </a>
 
 say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
