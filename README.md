@@ -13,10 +13,10 @@
 say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
 
 </a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
 <a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungarmichael&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ungarmichael&theme=dark" />
 </a>
 
 
