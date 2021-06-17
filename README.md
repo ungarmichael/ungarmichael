@@ -5,6 +5,8 @@
   and freelancer based in Austria.
 </h2>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
+
 <h3>
   I contribute to open <br>
   source and private projects <a href="https://github.com/ungarmichael?tab=repositories"> here on GitHub</a>
