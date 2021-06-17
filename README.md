@@ -13,7 +13,6 @@
 say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
 
 </a>
-  My activity
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
 <a>
 <a>
