@@ -1,8 +1,6 @@
 <h2>
   Hey! ― <br> 
-  my name is Michael Ungar, <br> 
-  designer, fullstack developer, <br> 
-  and freelancer based in Austria.
+  my name is Michael Ungar. <br> 
 </h2>
 
 <h3>
@@ -10,7 +8,7 @@
   source and private projects <a href="https://github.com/ungarmichael?tab=repositories"> here on GitHub</a>
 </h3>
 
-say hello → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
+say hello/servas → <a href='mailto:ungarmichael.mail@gmail.com'>ungarmichael.mail@gmail.com</a>
 
 </a>
   <img src="https://github-readme-stats.vercel.app/api?username=ungarmichael&count_private=true&show_icons=true&theme=dark" />
