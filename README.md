@@ -11,8 +11,8 @@
 
   ```js
 
-const mixl = {
-  contributingTo: "waterbyte",
+const michael:WaterbyteMember = {
+  contributingTo: "wbyt-web",
   gibtEsBlocker: "derzeit nicht"
 };
 
